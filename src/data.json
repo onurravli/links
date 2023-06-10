@@ -1,7 +1,7 @@
 {
-	"name": "Ad",
-	"surname": "Soyad",
-	"desc": "Merhaba! Ben Ad. 66 yaşındayım. Konya'da yaşıyorum. 6 senedir yazılım geliştiriciyim.",
+	"name": "John",
+	"surname": "Doe",
+	"desc": "Hello! I am John from LA. I have been working as a web developer for 5 years. I am interested in web technologies and I am always learning new things. I am also interested in photography and music.",
 	"imageUrl": "/person.jpg",
 	"iconUrl": "/person.jpg",
 	"links": [
