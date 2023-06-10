@@ -16,7 +16,15 @@ a {
 }
 
 @media (prefers-color-scheme: dark) {
-	html {
-		color-scheme: dark;
+	body {
+		background-color: #121214;
+		color: #fff;
+	}
+}
+
+@media (prefers-color-scheme: light) {
+	body {
+		background-color: #fff;
+		color: #121214;
 	}
 }

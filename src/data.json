@@ -1,0 +1,53 @@
+{
+	"name": "Ad",
+	"surname": "Soyad",
+	"desc": "Merhaba! Ben Ad. 66 yaşındayım. Konya'da yaşıyorum. 6 senedir yazılım geliştiriciyim.",
+	"imageUrl": "/person.jpg",
+	"iconUrl": "/person.jpg",
+	"links": [
+		{
+			"title": "GitHub",
+			"url": "https://github.com/#",
+			"icon": "/github.png"
+		},
+		{
+			"title": "LinkedIn",
+			"url": "https://linkedin.com/in/#",
+			"icon": "/linkedin.png"
+		},
+		{
+			"title": "Twitter",
+			"url": "https://twitter.com/#",
+			"icon": "/twitter.png"
+		},
+		{
+			"title": "E-Mail",
+			"url": "mailto:info@adsoyad.com",
+			"icon": "/mail.png"
+		},
+		{
+			"title": "CV",
+			"url": "/",
+			"icon": "/cv.png"
+		},
+		{
+			"title": "Blog",
+			"url": "/blog",
+			"icon": "/blog.png"
+		}
+	],
+	"darkMode": {
+		"textColor": "#fff",
+		"backgroundColor": "#121214",
+		"containerTextColor": "#fff",
+		"containerBackgroundColor": "#1f1f1f",
+		"containerHoverBackgroundColor": "#2f2f2f"
+	},
+	"lightMode": {
+		"textColor": "#121214",
+		"backgroundColor": "#fff",
+		"containerTextColor": "#000",
+		"containerBackgroundColor": "#e9e9e9",
+		"containerHoverBackgroundColor": "#d9d9d9"
+	}
+}

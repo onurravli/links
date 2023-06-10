@@ -20,7 +20,7 @@ export default function Container({
 	return (
 		<Link className={styles.link} href={url} rel={"noopener noreferrer"} target={"_blank"}>
 			<div className={styles.container}>
-				<Image className={styles.icon} src={icon} alt={title} width={200} height={200} />
+				<Image className={styles.icon} src={icon} alt={title} width={100} height={100} />
 				<div className={styles.title}>
 					<p style={montserrat.style}>{title}</p>
 				</div>
