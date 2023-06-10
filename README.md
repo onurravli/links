@@ -2,6 +2,10 @@
 
 A simple tool to show your links and personal info in a nice way.
 
+### Live Preview
+
+You can see a live preview of this project [here](https://onurravli.com).
+
 ### Installation
 
 ```bash
